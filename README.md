@@ -11,7 +11,7 @@
 
 
 - **Kotlin/Java** [ Android ]
-- Python, JavaScript, Vue.js
+- Python, Vue.js, React, React-Native
 
 
 
