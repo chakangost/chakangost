@@ -5,6 +5,20 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/은호-김-b766a7104)](https://www.linkedin.com/in/은호-김-b766a7104) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chakangost@gmail.com)](mailto:chakangost@gmail.com) 
 
 
+### Summary
+A business-thinking developer offering more than 9 years of experience building, integrating, and supporting Android and iOS mobile applications.
+
+
+### Strengths
+Delivering Results:
+Developed 17+ Android and 2+ iOS mobile applications with right quality in a timely fashion in diverse fields from Bluetooth, Education, Radio to Ultrasound receive.
+
+#### Business-driven mind:
+Prioritizing and completing tasks to meet business requirements.
+
+#### Empowering a team:
+Earning trust of others by recognizing, rewarding and encouraging team members and create positive work environment.
+
 
 ### 📕 My Skill
 
