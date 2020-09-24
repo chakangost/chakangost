@@ -10,8 +10,8 @@ A business-thinking developer offering more than 9 years of experience building,
 
 
 #### Strengths
-Delivering Results : Developed 17+ Android and 2+ iOS mobile applications with right quality in a timely fashion in diverse fields from Bluetooth, Education, Radio to Ultrasound receive.
-Business-driven mind : Prioritizing and completing tasks to meet business requirements.
+Delivering Results : Developed 17+ Android and 2+ iOS mobile applications with right quality in a timely fashion in diverse fields from Bluetooth, Education, Radio to Ultrasound receive.<br>
+Business-driven mind : Prioritizing and completing tasks to meet business requirements.</br>
 Empowering a team : Earning trust of others by recognizing, rewarding and encouraging team members and create positive work environment.
 
 
