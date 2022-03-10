@@ -8,6 +8,7 @@
   <img align="left" alt="Sagnik's CodeSignal" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/codesignal_logo.png" />
 </a>
 
+
 ### 🐼 Summary
 A business-thinking developer offering more than 11 years of experience building, integrating, and supporting Android and iOS mobile applications.
 
