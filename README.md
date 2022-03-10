@@ -2,8 +2,7 @@
 
 👋 Hi, Welcome to my GitHub. I am software developer in the Android field. I love to share development knowledge. And I like trying various things.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/freddie-b766a7104/)](https://www.linkedin.com/in/freddie-b766a7104/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chakangost@gmail.com)](mailto:chakangost@gmail.com) 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/freddie-b766a7104/)](https://www.linkedin.com/in/freddie-b766a7104/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chakangost@gmail.com)](mailto:chakangost@gmail.com) [![Codesignal Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://app.codesignal.com/profile/eun-ho_k/)](https://app.codesignal.com/profile/eun-ho_k/)
 
 ### 🐼 Summary
 A business-thinking developer offering more than 11 years of experience building, integrating, and supporting Android and iOS mobile applications.
