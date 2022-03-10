@@ -9,6 +9,7 @@
 </a>
 
 
+
 ### 🐼 Summary
 A business-thinking developer offering more than 11 years of experience building, integrating, and supporting Android and iOS mobile applications.
 
