@@ -7,7 +7,6 @@
 <a href="https://app.codesignal.com/profile/eun-ho_k/">
   <img align="left" alt="Sagnik's CodeSignal" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/codesignal_logo.png" />
 </a>
-<br></br>
 
 <a href="https://www.rocketpunch.com/@chakangost/">
   <img align="left" alt="Sagnik's CodeSignal" height="46px" width="43px" src="https://image.rocketpunch.com/company/1/rocketpunch_logo_1543569694.png?s=100x100&t=inside" />
