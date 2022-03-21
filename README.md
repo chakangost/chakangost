@@ -9,6 +9,12 @@
 </a>
 <br></br>
 
+<a href="https://www.rocketpunch.com/@chakangost/">
+  <img align="left" alt="Sagnik's CodeSignal" height="46px" width="43px" src="https://image.rocketpunch.com/company/1/rocketpunch_logo_1543569694.png?s=100x100&t=inside" />
+</a>
+<br></br>
+
+
 
 ### 🐼 Summary
 A business-thinking developer offering more than 11 years of experience building, integrating, and supporting Android and iOS mobile applications.
