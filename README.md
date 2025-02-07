@@ -33,7 +33,7 @@ Empowering a team : Earning trust of others by recognizing, rewarding and encour
 
 
 
-- **Kotlin/Java** [ Android ]
+- **Kotlin(+Compose)/Java** [ Android ]
 - Python, Vue.js, React, React-Native
 
 
