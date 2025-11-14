@@ -25,7 +25,7 @@ Web & Cross-Platform: Python, Vue.js, React, React Native<br>
 Leadership: Agile Coaching, Team Facilitation, Job Crafting<br>
 
 
-#### Expertise
+#### What I Bring
 Business-driven mindset: I prioritize delivering features that align with product/market needs.</br>
 Team empowerment: I believe in creating positive work environments by recognizing, supporting and inspiring team members.</br>
 Continuous experimentation: I enjoy trying out new technologies and sharing my learning with the community.</br>
